@@ -1,7 +1,7 @@
 # JBZoo to GPL Patches
 Patches for versions 2.x to FREE it (GNU GPL). [See details](https://github.com/JBZoo/JBZoo)
 
-### What is it?
+## What is it?
 
  - No ioncube. Open source matter... =)
  - No commercial license. Only GPL - only hardcore! `hi OSM =)`.
@@ -10,7 +10,7 @@ Patches for versions 2.x to FREE it (GNU GPL). [See details](https://github.com/
  - Of course it's FREE.
 
 
-### How to gpl my website with JBZoo?
+## How to gpl my website with JBZoo?
 
  - Backup your website (database, all files)
  - Check your JBZoo version
@@ -20,7 +20,11 @@ Patches for versions 2.x to FREE it (GNU GPL). [See details](https://github.com/
  - Profit!
 
 
-### Just Our Recommendations
+## I have problem with patch!
+Just create [new issue](https://github.com/JBZoo/JBZoo-2-GPL-patches/issues/new)
+
+
+## Just Our Recommendations
 ...only as you wish
 
  - Use PHP v5.6 or latter
