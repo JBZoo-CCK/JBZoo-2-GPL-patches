@@ -37,4 +37,4 @@ Just create [new issue](https://github.com/JBZoo/JBZoo-2-GPL-patches/issues/new)
 GNU GPL v2.0 or later. [See details](https://github.com/JBZoo/JBZoo-2-GPL-patches/blob/master/LICENSE.md)
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-122740514-1/jbzoo-readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-122740514-1/jbzoo-gpl-patches)](https://github.com/igrigorik/ga-beacon)
