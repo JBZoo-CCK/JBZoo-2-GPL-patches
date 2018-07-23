@@ -1,4 +1,4 @@
-# JBZoo to GPL Patches
+# JBZoo to GPL Patches [![Analytics](https://ga-beacon.appspot.com/UA-122740514-1/jbzoo-gpl-patches?pixel)](https://github.com/igrigorik/ga-beacon)
 Patches for versions 2.x to FREE it (GNU GPL). [See details](https://github.com/JBZoo/JBZoo)
 
 ## What is it?
@@ -35,6 +35,3 @@ Just create [new issue](https://github.com/JBZoo/JBZoo-2-GPL-patches/issues/new)
 
 ## LICENSE
 GNU GPL v2.0 or later. [See details](https://github.com/JBZoo/JBZoo-2-GPL-patches/blob/master/LICENSE.md)
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-122740514-1/jbzoo-gpl-patches)](https://github.com/igrigorik/ga-beacon)
